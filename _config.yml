@@ -11,7 +11,7 @@ github_repo: "https://github.com/kanapo1023/kanapo1023.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
+sidebar-about-description: "感谢你们聚集于此创造的奇迹"
 sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
